@@ -402,13 +402,7 @@ botaoFecharModal.addEventListener("click", () => {
 });
 ```
 
-## Hospedagem
 
-Estamos hospedando nosso projeto no GitPages, uma plataforma de hospedagem gratuita para projetos baseados em Git. Com GitPages, podemos compartilhar nosso trabalho com o mundo e de forma fácil e rápida. Além disso, a integração com o GitHub torna ainda mais simples o processo de desenvolvimento, teste e implantação de nossas aplicações.
-
-## Acesso o Link e assista o Trailler:
-
-https://edvaldoljr.github.io/Projeto-FrontEnd-SuperMarioBros-o-Filme/
 
 # ⭐️ **Deixe um Star** ⭐️
 
